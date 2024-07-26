@@ -1,1 +1,1 @@
-# Textual-Entailment
+# IITIsoc_Textual Entailment
