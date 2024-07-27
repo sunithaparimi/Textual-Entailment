@@ -1,0 +1,10 @@
+-Pandas
+-Matplotlib
+-Seaborn
+-Numpy
+-Natural Language Toolkit(nltk)
+-contractions
+-Regular Expression(re)
+-Tensorflow
+-tf-keras
+-Transformers
